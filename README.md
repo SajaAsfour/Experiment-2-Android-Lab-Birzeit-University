@@ -39,6 +39,8 @@ The project consists of the following key files:
 ## 📸 Screenshots
 ![image](https://github.com/user-attachments/assets/8719ecaf-4652-43d9-91fd-4ce06ee9ccba)
 ![image](https://github.com/user-attachments/assets/eec29876-e650-4eba-bb7d-19c9f9acce9f)
+![image](https://github.com/user-attachments/assets/d7fcbfdb-10ed-49e7-92e1-14f4c6063788)
+![image](https://github.com/user-attachments/assets/61c64e21-f55c-4ed4-a6cd-d47164ccd53f)
 
 ## 📦 Dependencies
 - 📱 Android SDK
